@@ -1,0 +1,21 @@
+body {
+    background-color: #fefbd8;
+}
+
+header {
+    height: 200px;
+}
+
+header > div {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-self: center;
+}
+
+header > div > button {
+    width: 120px;
+    height: 40px;
+    background-color: #80ced6;
+}
