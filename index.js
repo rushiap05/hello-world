@@ -9,7 +9,7 @@ tableReverse.innerText = "Reverse";
 let answer = document.createElement("button");
 answer.innerText = "Anwers";
 
-let min = 1, max = 10, min1 = 11, max2 = 20;
+let min = 2, max = 9, min1 = 12, max2 = 19;
 let one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelwe, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, ninteen, twenty;
 
 let tableStructureMultiple;
